@@ -1,0 +1,492 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js" ></script>
+    <title>Mooli | Home</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="description" content="Mooli Bootstrap 4x admin is super flexible, powerful, clean &amp; modern responsive admin dashboard with unlimited possibilities.">
+    <meta name="author" content="GetBootstrap, design by: puffintheme.com">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- VENDOR CSS -->
+    <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/vendor/font-awesome/css/font-awesome.min.css">
+
+
+    <link rel="stylesheet" href="assets/vendor/chartist/css/chartist.min.css">
+    <link rel="stylesheet" href="assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css">
+    <link rel="stylesheet" href="assets/vendor/c3/c3.min.css"/>
+    <link rel="stylesheet" href="assets/vendor/toastr/toastr.min.css">
+
+
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="assets/css/mooli.min.css">
+
+</head>
+<body>
+<div id="body" class="theme-cyan">
+
+    <!-- Page Loader -->
+    <div class="page-loader-wrapper">
+        <div class="loader">
+            <div class="m-t-30"><img src="assets/images/icon.svg" width="40" height="40" alt="Mooli"></div>
+            <p>Please wait...</p>
+        </div>
+    </div>
+
+    <!-- Theme Setting -->
+    <div class="themesetting">
+        <a href="javascript:void(0);" class="theme_btn"><i class="fa fa-gear fa-spin"></i></a>
+        <ul class="list-group">
+            <li class="list-group-item">
+                <ul class="choose-skin list-unstyled mb-0">
+                    <li data-theme="green"><div class="green"></div></li>
+                    <li data-theme="orange"><div class="orange"></div></li>
+                    <li data-theme="blush"><div class="blush"></div></li>
+                    <li data-theme="cyan" class="active"><div class="cyan"></div></li>
+                    <li data-theme="timber"><div class="timber"></div></li>
+                    <li data-theme="blue"><div class="blue"></div></li>
+                    <li data-theme="amethyst"><div class="amethyst"></div></li>
+                </ul>
+            </li>
+            <!--页面颜色样式-->
+            <li class="list-group-item d-flex align-items-center justify-content-between">
+                <span>Gradient</span>
+                <label class="switch gradient_mode">
+                    <input type="checkbox" checked="">
+                    <span class="slider round"></span>
+                </label>
+            </li>
+            <li class="list-group-item d-flex align-items-center justify-content-between">
+                <span>RTL version</span>
+                <label class="switch rtl_mode">
+                    <input type="checkbox">
+                    <span class="slider round"></span>
+                </label>
+            </li>
+        </ul>
+        <hr>
+
+    </div>
+
+    <!-- Overlay For Sidebars -->
+    <div class="overlay"></div>
+
+    <div id="wrapper">
+
+        <!-- Page top navbar -->
+        <nav class="navbar navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-left">
+                    <div class="navbar-btn">
+                        <a href="index.html"><img src="assets/images/icon.svg" alt="Mooli Logo" class="img-fluid logo"></a>
+                        <button type="button" class="btn-toggle-offcanvas"><i class="fa fa-align-left"></i></button>
+                    </div>
+                    <form id="navbar-search" class="navbar-form search-form">
+                        <button type="button" class="btn btn-default"><i class="icon-magnifier"></i></button>
+                        <input value="" class="form-control" placeholder="Search here..." type="text">
+                    </form>
+                </div>
+                <div class="navbar-right">
+                    <div id="navbar-menu">
+                        <ul class="nav navbar-nav">
+                            <li class="hidden-xs"><a href="javascript:void(0);" id="btnFullscreen" class="icon-menu"><i class="fa fa-arrows-alt"></i></a></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="recent_searche" style="display: none;">
+                    <div class="card mb-0">
+                        <div class="header">
+                            <h2>Recent search result</h2>
+                            <ul class="header-dropdown dropdown">
+                                <li><a href="javascript:void(0);">Clear data</a></li>
+
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- Main left sidebar menu -->
+        <div id="left-sidebar" class="sidebar">
+            <a href="#" class="menu_toggle"><i class="fa fa-angle-left"></i></a>
+            <div class="navbar-brand">
+                <a href="index.html"><img src="assets/images/icon.svg" alt="Mooli Logo" class="img-fluid logo"><span>首页</span></a>
+                <button type="button" class="btn-toggle-offcanvas btn btn-sm float-right"><i class="fa fa-close"></i></button>
+            </div>
+            <div class="sidebar-scroll">
+
+                <nav id="left-sidebar-nav" class="sidebar-nav">
+                    <ul id="main-menu" class="metismenu animation-li-delay">
+                        <li class="header">我的设备</li>
+                        <li class="active"><a href="index.html"><i class="fa fa-dashboard"></i> <span>组一</span></a></li>
+                        <li class="header">其他</li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <!-- Main body part  -->
+        <div id="main-content">
+            <div class="container-fluid">
+                <!-- Page header section  -->
+                <div class="block-header">
+                    <div class="row clearfix">
+                        <div class="col-lg-4 col-md-12 col-sm-12">
+                            <h1>Hi, Welcomeback!</h1>
+                            <div id="message" ></div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row clearfix">
+                    <div class="col-12">
+                        <nav class="navbar navbar-expand-lg navbar-light bg-light page_menu">
+                            <a class="navbar-brand" href="#">No.1</a>
+                            <label class="switch">
+                                <input type="checkbox" value="dev1" v-model="checked">
+<!--                                <div>{{checked}}</div>-->
+                                <div class="slider round"></div>
+                            </label>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="fa fa-bars text-muted"></i>
+                            </button>
+
+                        </nav>
+                    </div>
+                    <div class="col-12">
+                        <div class="card theme-bg gradient">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="slider1" class="carousel vert slide" data-ride="carousel" data-interval="2700">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Tsoil</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon4.png" width="45" height="50"/>{{this.info[0]}}℃</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="2800">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Eav</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon3.png" width="45" height="45"/> {{info[1]}}Lux</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="3000">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Temp</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon4.png" width="45" height="50"/>{{this.info[0]}}℃</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="3000">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Rh</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon5.png" width="38" height="50"/> {{this.info[2]}}%</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row clearfix">
+                    <div class="col-12">
+                        <nav class="navbar navbar-expand-lg navbar-light bg-light page_menu">
+                            <a class="navbar-brand" href="#">No.2</a>
+                            <label class="switch">
+                                <input type="checkbox" value="dev2" v-model="checked">
+                                <div class="slider round"></div>
+                            </label>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="fa fa-bars text-muted"></i>
+                            </button>
+
+                        </nav>
+                    </div>
+                    <div class="col-12">
+                        <div class="card theme-bg gradient">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="2700">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Tsoil</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon4.png" width="45" height="50"/>{{info[3]}}℃</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="2800">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Eav</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon3.png" width="45" height="45"/> {{info[4]}}Lux</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="3000">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Temp</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon4.png" width="45" height="50"/>{{info[3]}}℃</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <div id="" class="carousel vert slide" data-ride="carousel" data-interval="3000">
+                                                    <div class="carousel-inner">
+                                                        <div class="carousel-item active">
+                                                            <div>Rh</div>
+                                                            <div class="mt-3 h1"><img src="assets/images/logo/icon5.png" width="38" height="50"/> {{info[5]}}%</div>
+                                                            <div class="d-flex">
+                                                                <div class="mr-3">当前状态<i class="fa fa-caret-up"></i></div>
+                                                                <div>This Time</div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script src="assets/js/vue/vue.js"></script>
+<script src="assets/js/axios.min.js"></script>
+<script src="assets/js/common.js"></script>
+<script>
+    var vm = new Vue({
+        el:"#wrapper",
+        data:{
+            info:[0,0,0,0,0,0],
+            timer:null,
+            checked:[]
+        },
+        mounted(){
+            this.timer = setInterval(()=>{
+                send();
+                this.findMessage();
+                console.log("info:"+this.info)
+                console.log("data:"+data);
+            },500);
+        },
+        methods:{
+            sendDevControlMessage(mes1,mes2){
+                axios.get("/dev/control",{
+                    params:{
+                        devId1:mes1,
+                        devId2:mes2
+                    }
+                }).then(()=>{
+                    alert(mes+":正在开启...");
+                }).catch(()=>{
+                    alert(mes+":开启失败！")
+                })
+            },
+            findMessage(){
+                if(data.length >= 6){
+                    for(let i=0;i<6;i++){
+                        console.log(Number(data[0]));
+                        Vue.set(this.info,i,Number(data.shift()));
+                        // this.info[i] = Number(data.shift());
+                    }
+                }
+            }
+        },
+        watch:{
+            checked:{
+                deep:true,
+                handler(){
+                    // this.checked.forEach((value)=>{
+                    //     if(value=='dev1'){
+                    //         this.sendDevControlMessage(value)
+                    //     }
+                    //     if(value=='dev2'){
+                    //         this.sendDevControlMessage(value)
+                    //     }
+                    // })
+                    let mes1 = this.checked.includes('dev1')
+                    let mes2 = this.checked.includes('dev2')
+                    this.sendDevControlMessage(mes1,mes2);
+                    // this.sendDevControlMessage(this.checked)
+                }
+            }
+        }
+    });
+</script>
+<script type="text/javascript">
+    var websocket = null;
+    var message = null;
+    var data = [];  //默认数据
+    //判断当前浏览器是否支持WebSocket
+    if ('WebSocket' in window) {
+        websocket = new WebSocket("ws://www.txgc.xyz"+"/websocket");
+        // websocket = new WebSocket("ws://localhost:80"+"/websocket");
+    }
+    else {
+        alert('Not support websocket')
+    }
+
+    //连接发生错误的回调方法
+    websocket.onerror = function () {
+        setMessageInnerHTML("WebSocket连接发生错误");
+    };
+
+    //连接成功建立的回调方法
+    websocket.onopen = function () {
+        setMessageInnerHTML("WebSocket连接成功");
+    }
+
+    //接收到消息的回调方法
+    websocket.onmessage = function (event) {
+        data.push(event.data);
+        message = event.data;
+        // data.shift();
+    }
+
+    //连接关闭的回调方法
+    websocket.onclose = function () {
+        setMessageInnerHTML("WebSocket连接关闭");
+    }
+
+    //监听窗口关闭事件，当窗口关闭时，主动去关闭websocket连接，防止连接还没断开就关闭窗口，server端会抛异常。
+    window.onbeforeunload = function () {
+        closeWebSocket();
+    }
+
+
+
+    //-----------------------------------------------------------------------------------
+    //将消息显示在网页上
+    function setMessageInnerHTML(innerHTML) {
+        document.getElementById('message').innerHTML += innerHTML + '<br/>';
+    }
+
+    //关闭WebSocket连接
+    function closeWebSocket() {
+        websocket.close();
+    }
+
+    //发送消息
+    function send() {
+        websocket.send(message);
+        message=null;
+    }
+
+
+    //------------------------------------------------------------------------------------
+</script>
+<!-- Javascript -->
+<script src="assets/bundles/libscripts.bundle.js"></script>
+<script src="assets/bundles/vendorscripts.bundle.js"></script>
+
+<!-- Vedor js file and create bundle with grunt  -->
+<script src="assets/bundles/flotscripts.bundle.js"></script><!-- flot charts Plugin Js -->
+<script src="assets/bundles/c3.bundle.js"></script>
+<script src="assets/bundles/apexcharts.bundle.js"></script>
+<script src="assets/bundles/jvectormap.bundle.js"></script>
+<script src="assets/vendor/toastr/toastr.js"></script>
+
+
+<!-- Project core js file minify with grunt -->
+<script src="assets/bundles/mainscripts.bundle.js"></script>
+<script src="assets/js/index.js"></script>
+</body>
+</html>

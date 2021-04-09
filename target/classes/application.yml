@@ -1,0 +1,10 @@
+server:
+  port: 80
+spring:
+  application:
+    name: mirac-Datav
+  thymeleaf:
+    cache: false
+    encoding: UTF-8
+
+

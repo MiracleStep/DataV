@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fb60131-f4f2-40a7-b07d-ea9e5e7238c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mirac/item/controller/DevController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mirac-datav.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirac-datav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mirac-datav.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mirac/DatavApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mirac/DatavApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mirac/item/config/WebsocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mirac/item/config/WebsocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mirac/item/controller/DatavController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mirac/item/controller/DatavController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mirac/item/socket/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mirac/item/socket/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mirac/item/socket/SocketThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mirac/item/socket/SocketThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mirac/item/socket/WebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mirac/item/socket/WebSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/apexcharts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/apexcharts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/c3.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/c3.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/flotscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/flotscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/jvectormap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/jvectormap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/knob.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/knob.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/libscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/libscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/mainscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/mainscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/vendorscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bundles/vendorscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/css/mooli.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/mooli.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/WeatherIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/WeatherIcons-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/weathericons-regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/images/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/images/icon2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/icon2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/images/图标/光强.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/logo/icon3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/images/图标/温度计.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/logo/icon4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/images/图标/湿度.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/logo/icon5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/c3.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/c3.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/c3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/c3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/d3.v3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/d3.v3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/d3.v5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/c3/d3.v5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-axistitle/chartist-plugin-axistitle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-axistitle/chartist-plugin-axistitle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-legend-latest/chartist-plugin-legend.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-legend-latest/chartist-plugin-legend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/css/chartist.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/css/chartist.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/css/chartist.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/css/chartist.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/js/chartist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/js/chartist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/js/chartist.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/js/chartist.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/map/chartist.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/map/chartist.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/map/chartist.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/map/chartist.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/polar_area_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/polar_area_chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/scss/chartist.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/chartist/scss/chartist.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/excanvas.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/excanvas.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.colorhelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.colorhelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.crosshair.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.crosshair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.errorbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.errorbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/flot-charts/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/css/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/css/font-awesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/toastr/toastr.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/toastr/toastr.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/toastr/toastr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/toastr/toastr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/toastr/toastr.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor/toastr/toastr.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/WeatherIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/WeatherIcons-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/weathericons-regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mirac/DatavApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mirac/DatavApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mirac/item/config/WebsocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mirac/item/config/WebsocketConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mirac/item/controller/DatavController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mirac/item/controller/DatavController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mirac/item/socket/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mirac/item/socket/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mirac/item/socket/SocketThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mirac/item/socket/SocketThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mirac/item/socket/WebSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mirac/item/socket/WebSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/apexcharts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/apexcharts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/c3.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/c3.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/flotscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/flotscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/jvectormap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/jvectormap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/knob.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/knob.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/libscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/libscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/mainscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/mainscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/bundles/vendorscripts.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/bundles/vendorscripts.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/css/mooli.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/css/mooli.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/WeatherIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/WeatherIcons-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/weathericons-regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/images/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/images/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/images/icon2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/images/icon2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/images/图标/光强.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/images/图标/温度计.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/images/图标/湿度.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/c3.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/c3.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/c3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/c3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/d3.v3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/d3.v3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/d3.v5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/c3/d3.v5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-axistitle/chartist-plugin-axistitle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-axistitle/chartist-plugin-axistitle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-legend-latest/chartist-plugin-legend.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-legend-latest/chartist-plugin-legend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/css/chartist.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/css/chartist.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/css/chartist.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/css/chartist.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/js/chartist.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/js/chartist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/js/chartist.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/js/chartist.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/map/chartist.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/map/chartist.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/map/chartist.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/map/chartist.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/polar_area_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/polar_area_chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/scss/chartist.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/chartist/scss/chartist.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/excanvas.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/excanvas.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.colorhelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.colorhelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.crosshair.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.crosshair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.errorbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.errorbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.image.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/flot-charts/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/css/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/css/font-awesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/toastr/toastr.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/toastr/toastr.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/toastr/toastr.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/toastr/toastr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor/toastr/toastr.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor/toastr/toastr.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/WeatherIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/WeatherIcons-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/fonts/weathericons-regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mirac-datav-1.0-SNAPSHOT-exec.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mirac-datav-1.0-SNAPSHOT-exec.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mirac-datav-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mirac-datav-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/myFile/apache-maven-3.6.3/maven_repository" />
+        <option name="mavenHome" value="$USER_HOME$/myFile/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/myFile/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="9" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1qn30t89qzRNnrtK0LSDDwtajlo" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DatavApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mirac-datav" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mirac.DatavApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fb60131-f4f2-40a7-b07d-ea9e5e7238c5" name="Default Changelist" comment="" />
+      <created>1617701308162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617701308162</updated>
+      <workItem from="1617701309354" duration="4936000" />
+      <workItem from="1617752696397" duration="7132000" />
+      <workItem from="1617765869517" duration="26000" />
+      <workItem from="1617800148607" duration="104000" />
+      <workItem from="1617801624640" duration="141000" />
+      <workItem from="1617802154516" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
